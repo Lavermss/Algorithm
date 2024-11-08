@@ -2,11 +2,11 @@
 Baekjoon Algorithm Practice
 | Total |
 |:-----:|
-| 9 |
+| 10 |
 
 | Bronze | Silver | Gold | Platinum | Diamond | Ruby |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 9 | 0 | 0 | 0 | 0 | 0 |
+| 10 | 0 | 0 | 0 | 0 | 0 |
 
 | No. | Problem | Link |
 |:-----:|:-----:|:-----:|
@@ -19,3 +19,4 @@ Baekjoon Algorithm Practice
 | 2475. |  검증수 | [🔗](./%EB%B0%B1%EC%A4%80/Bronze/2475.%E2%80%85%EA%B2%80%EC%A6%9D%EC%88%98/%EA%B2%80%EC%A6%9D%EC%88%98.java) |
 | 2557. |  Hello World | [🔗](./%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/README.md) |
 | 2739. |  구구단 | [🔗](./%EB%B0%B1%EC%A4%80/Bronze/2739.%E2%80%85%EA%B5%AC%EA%B5%AC%EB%8B%A8/%EA%B5%AC%EA%B5%AC%EB%8B%A8.java) |
+| 2741. |  N 찍기 | [🔗](./%EB%B0%B1%EC%A4%80/Bronze/2741.%E2%80%85N%E2%80%85%EC%B0%8D%EA%B8%B0/N%E2%80%85%EC%B0%8D%EA%B8%B0.java) |
